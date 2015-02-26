@@ -1,7 +1,7 @@
 {
   "name": "tron-legacy-atom",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "My version of Tron Legacy. This is a modified conversion of Dayle Rees' Tron Legacy for TextMate.",
   "repository": "https://github.com/Riari/tron-legacy-atom",
   "license": "MIT",
