@@ -1,4 +1,4 @@
-# Tron Legacy theme
+# Tron Legacy syntax theme for Atom
 
 My version of Tron Legacy. This is a modified conversion of Dayle Rees' Tron Legacy for TextMate: https://github.com/daylerees/colour-schemes/blob/master/legacy/TronLegacy.tmTheme
 
