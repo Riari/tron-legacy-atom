@@ -1,7 +1,7 @@
 {
   "name": "tron-legacy",
   "theme": "syntax",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "description": "A modified conversion of Dayle Rees' Tron Legacy for TextMate.",
   "repository": {
     "type": "git",
